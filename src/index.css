@@ -1,0 +1,27 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: grid;
+  place-content: center;
+}
+
+.u-icon {
+  height: 1em;
+  pointer-events: none;
+}
+
+.u-title {
+  font-size: 1.33rem;
+  margin: 0;
+}
+
+.u-accent-large {
+  font-size: 1.75rem;
+  color: #65ffbf;
+}
