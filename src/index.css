@@ -17,10 +17,11 @@ body {
 
 .u-title {
   font-size: 1.33rem;
+  line-height: 1.1;
   margin: 0;
 }
 
 .u-accent-large {
-  font-size: 1.8rem;
-  color: #50F9C4;
+  font-size: 1.75rem;
+  color: hsl(161, 100%, 65%);
 }

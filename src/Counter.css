@@ -12,8 +12,8 @@
   grid-template-rows: auto auto auto;
   margin: 5vw;
   max-width: 14rem;
-  padding: .8rem .8rem 1.8rem .8rem;
-  row-gap: 0.5rem;
+  padding: .7rem .7rem 1.8rem .7rem;
+  row-gap: 0.45rem;
   width: 90vw;
 }
 
@@ -27,7 +27,7 @@
   gap: 0rem;
   grid-auto-flow: column;
   grid-template-columns: 1fr 1fr;
-  margin-top: .25rem;
+  margin-top: .32rem;
 }
 
 .c-counter__item {
