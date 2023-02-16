@@ -2,7 +2,7 @@
   background-color: #1b1b1b;
   border-radius: .5rem;
   box-sizing: border-box;
-  box-shadow: .25em .25em rgba(0,0,0,.25);
+  box-shadow: .25em .2em rgba(0,0,0,.25);
   color: #dceef0;
   display: grid;
   font-family: 'Anonymous Pro', monospace;
@@ -34,6 +34,7 @@
   display: grid;
   gap: .66rem;
   grid-auto-flow: column;
+  margin-left: .1rem;
   place-content: start;
   place-items: center;
 }
