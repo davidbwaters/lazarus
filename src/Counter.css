@@ -9,9 +9,9 @@
   font-weight: 700;
   grid-auto-flow: column;
   grid-template-columns: 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: auto auto auto;
   margin: 5vw;
-  max-width: 16rem;
+  max-width: 18rem;
   padding: 1rem 1rem 1.2rem 1rem;
   row-gap: 0.4rem;
   width: 90vw;
