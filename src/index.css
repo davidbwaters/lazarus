@@ -11,7 +11,7 @@ body {
 }
 
 .u-icon {
-  height: .9em;
+  height: 1em;
   pointer-events: none;
 }
 
@@ -21,6 +21,6 @@ body {
 }
 
 .u-accent-large {
-  font-size: 1.75rem;
-  color: #65ffbf;
+  font-size: 1.8rem;
+  color: #50F9C4;
 }

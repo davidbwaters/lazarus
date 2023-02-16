@@ -11,8 +11,8 @@
   grid-template-columns: 1fr;
   grid-template-rows: auto auto auto;
   margin: 5vw;
-  max-width: 14.5rem;
-  padding: .9rem .9rem 1.8rem .9rem;
+  max-width: 14rem;
+  padding: .8rem .8rem 1.8rem .8rem;
   row-gap: 0.5rem;
   width: 90vw;
 }
@@ -24,9 +24,10 @@
 .c-counter__items {
   align-items: center;
   display: grid;
-  gap: .5rem;
+  gap: 0rem;
   grid-auto-flow: column;
   grid-template-columns: 1fr 1fr;
+  margin-top: .25rem;
 }
 
 .c-counter__item {
